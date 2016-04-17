@@ -14,14 +14,12 @@
         android:textColor="#ffffff"
         android:textSize="120sp"
         android:textStyle="bold"
-        android:layout_x="323dp"
         android:layout_y="67dp"
         android:layout_above="@+id/button"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="74dp" />
 
     <Button
-        style="@android:style/Widget.Material.Light.Button.Borderless.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/boton1"
