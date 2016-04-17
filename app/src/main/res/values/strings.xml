@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProyectoAndroid</string>
+    <string name="texto1">Bienvenido</string>
+    <string name="boton1">Entrar</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
