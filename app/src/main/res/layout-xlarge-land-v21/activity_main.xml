@@ -31,11 +31,6 @@
         android:layout_x="615dp"
         android:layout_y="255dp"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"
-        android:layout_margin="3dp"
-        android:layout_marginLeft="3dp"
-        android:layout_marginTop="3dp"
-        android:layout_marginRight="3dp"
-        android:layout_marginBottom="3dp" />
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
